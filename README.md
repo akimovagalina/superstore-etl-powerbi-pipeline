@@ -106,6 +106,26 @@ The final dashboard includes multiple analytical views:
 ⸻
 
 
+Dashboard Preview
+
+Overview
+(docs/dashboard_screenshots/1 Overview.png)
+
+Consumer Segment
+(docs/dashboard_screenshots/2 Consumer Segment.png)
+(docs/dashboard_screenshots/3 Consumer Details.png)
+
+Corporate  Segment
+(docs/dashboard_screenshots/4 Corporate Segment.png)
+(docs/dashboard_screenshots/5 Corporate  Details.png)
+
+Home Office Segment
+(docs/dashboard_screenshots/6 Home Office Segment.png)
+(docs/dashboard_screenshots/7 Home Office  Details.png)
+
+
+⸻
+
 Key Insights
  • Sales performance varies significantly by region, with certain regions outperforming others in profitability
  

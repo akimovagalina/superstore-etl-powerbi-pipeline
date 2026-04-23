@@ -11,7 +11,14 @@ This project demonstrates an end-to-end data engineering and analytics pipeline 
 The goal of this project is to simulate a real-world BI workflow:
 Raw Data → ETL Processing → Structured Storage → Power BI Modeling → Business Insights
 
+⸻
 
+ 
+Dataset
+
+ • Source: Kaggle Superstore Dataset
+ 
+ • Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
  
 ⸻
 
@@ -144,15 +151,11 @@ Business Value
 This project demonstrates:
  • Automated data pipeline design (ETL thinking)
  
- • Scalable data transformation logic
- 
  • BI-ready dataset preparation
  
  • End-to-end analytics workflow
  
- • Practical application of data engineering concepts
- 
-
+ • This solution enables better decision-making by highlighting profitability drivers, segment performance, and regional trends.
 
 ⸻
 
@@ -173,11 +176,3 @@ superstore-etl-powerbi-pipeline/
 
 
 
-⸻
-
- 
-Dataset
-
- • Source: Kaggle Superstore Dataset
- 
- • Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final

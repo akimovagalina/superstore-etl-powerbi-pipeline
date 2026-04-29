@@ -129,8 +129,11 @@ Screenshots:
 
 Key Insights
  • Sales are showing steady growth, while profits are growing more slowly. These figures are uneven across segments.
+ 
  • In the Consumer segment, which accounts for 50 percent of profits, profits and sales are growing, but could have grown even further if the average order value had not fallen. A detailed analysis revealed that the East is the strongest region, while Central is the weakest.
+ 
  • In the Corporate segment, which accounts for 30 percent of profits, sales are growing, but profits are falling. A detailed analysis revealed that East is again the strongest region, while Central is again the weakest.
+ 
  • In the Home Office segment, the Furniture category is not profitable at all, but thanks to the Technology category accounting for 71 percent of profits, profits and sales are again growing. Here, the West is the strongest region, while the South is the weakest.
 
 ⸻

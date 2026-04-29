@@ -128,6 +128,7 @@ Screenshots:
 ⸻
 
 Key Insights
+
  • Sales are showing steady growth, while profits are growing more slowly. These figures are uneven across segments.
  
  • In the Consumer segment, which accounts for 50 percent of profits, profits and sales are growing, but could have grown even further if the average order value had not fallen. A detailed analysis revealed that the East is the strongest region, while Central is the weakest.

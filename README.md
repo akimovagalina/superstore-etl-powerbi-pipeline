@@ -7,7 +7,9 @@ Superstore ETL & Power BI Analytics Pipeline
 
  
 Overview
-This project demonstrates an end-to-end data engineering and analytics pipeline built on the Kaggle Superstore dataset.
+
+Companies need to understand where profit is coming from and which areas require optimization.
+This project simulates a real BI workflow to identify profitability drivers and support decision-making. This project demonstrates an end-to-end data engineering and analytics pipeline built on the Kaggle Superstore dataset.
 The goal of this project is to simulate a real-world BI workflow:
 Raw Data → ETL Processing → Structured Storage → Power BI Modeling → Business Insights
 
@@ -22,8 +24,6 @@ Dataset
  
 ⸻
 
-
- 
 Tech Stack
  • Google Apps Script (ETL automation)
  
@@ -36,10 +36,7 @@ Tech Stack
  • DAX (business metrics)
 
  
-
-
 ⸻
-
 
  
 Data Pipeline Architecture
@@ -61,7 +58,14 @@ Data Pipeline Architecture
 
 6 Interactive Dashboard
 
+⸻
 
+Key Features
+
+- End-to-end ETL pipeline (Google Apps Script)
+- Data validation and transformation
+- Automated insight generation using DAX measures
+- Business-ready dashboard with actionable recommendations
 ⸻
 
 
@@ -96,17 +100,15 @@ The ETL pipeline was implemented using Google Apps Script and includes:
 
 
 Power BI Dashboard
-The final dashboard includes multiple analytical views:
 
- • Sales performance overview
- 
- • Profitability analysis
- 
- • Customer segment analysis
- 
- • Regional performance breakdown
- 
- • Category-level insights
+The dashboard is designed to answer the key question:
+"Where is profit coming from?"
+
+It provides:
+- KPI monitoring (Sales, Profit, Margin)
+- Regional and segment analysis
+- Category-level performance
+- Automatically generated insights using DAX
  
 
 
@@ -115,21 +117,7 @@ The final dashboard includes multiple analytical views:
 
 Dashboard Preview
 
-Overview
-(docs/dashboard_screenshots/1 Overview.png)
-
-Consumer Segment
-(docs/dashboard_screenshots/2 Consumer Segment.png)
-(docs/dashboard_screenshots/3 Consumer Details.png)
-
-Corporate  Segment
-(docs/dashboard_screenshots/4 Corporate Segment.png)
-(docs/dashboard_screenshots/5 Corporate  Details.png)
-
-Home Office Segment
-(docs/dashboard_screenshots/6 Home Office Segment.png)
-(docs/dashboard_screenshots/7 Home Office  Details.png)
-
+Watch demo: docs/dashboard_video/power_bi_dashboard_demo.gif
 
 ⸻
 

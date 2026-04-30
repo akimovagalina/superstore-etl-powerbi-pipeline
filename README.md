@@ -117,12 +117,13 @@ It provides:
 
 Dashboard Preview
 
-Watch demo: docs/dashboard_video/power_bi_dashboard_demo.gif
+Watch demo: https://github.com/akimovagalina/superstore-etl-powerbi-pipeline/tree/main/docs/dashboard_video
 
 Screenshots:
-- Overview (docs/dashboard_screenshots/1 Overview.png
-- Segment Analysis (docs/dashboard_screenshots/2 Segment Analysis.png
-- Details (docs/dashboard_screenshots/3 Details.png
+https://github.com/akimovagalina/superstore-etl-powerbi-pipeline/tree/main/docs/dashboard_screenshots
+- Overview (docs/dashboard_screenshots/1 Overview.png)
+- Segment Analysis (docs/dashboard_screenshots/2 Segment Analysis.png)
+- Details (docs/dashboard_screenshots/3 Details.png)
 
 
 ⸻
